@@ -11,4 +11,4 @@
 - [Email] sindongwoo123@yu.ac.kr <br />
 - [Github] https://github.com/DongWoo-Sin <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DongWoo-Sin&count_private=true)
