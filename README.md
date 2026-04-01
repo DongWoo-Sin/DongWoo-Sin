@@ -9,7 +9,7 @@
 
 [Email] sindongwoo123@yu.ac.kr
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DongWoo-Sin=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DongWoo-Sinanuraghazra&show_icons=true&theme=radical)
 <!--
 **DongWoo-Sin/DongWoo-Sin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
