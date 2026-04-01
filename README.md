@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-
-## Hi there 👋
-
 **Introduction**
 
 안녕하세요 영남대학교 컴퓨터공학과 23학번 신동우입니다. <br />
