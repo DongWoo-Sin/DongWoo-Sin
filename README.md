@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=250&section=header&text=Hello%20there!&fontColor=FFFFFF&fontSize=90&fontAlign=50&fontAlignY=40&desc=welcome&descSize=30&descAlign=65)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=150&section=header&text=Hello%20there!&fontColor=FFFFFF&fontSize=90&fontAlign=50&fontAlignY=40&desc=welcome&descSize=30&descAlign=65)
 # **Introduction**
 
 안녕하세요 영남대학교 컴퓨터공학과 23학번 신동우입니다. <br />
