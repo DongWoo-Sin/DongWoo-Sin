@@ -1,11 +1,15 @@
 ## Hi there 👋
 
 **Introduction**
-안녕하세요 영남대학교 컴퓨터공학과 23학번 신동우입니다. 
 
+안녕하세요 영남대학교 컴퓨터공학과 23학번 신동우입니다. 
+제대한지 얼마 안됐어요.
 
 **Link**
+
 [Email] sindongwoo123@yu.ac.kr
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DongWoo-Sin=anuraghazra&show_icons=true&theme=radical)
 <!--
 **DongWoo-Sin/DongWoo-Sin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
