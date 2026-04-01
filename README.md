@@ -9,5 +9,5 @@
 **Link**
 
 [Email] sindongwoo123@yu.ac.kr
-[Github] (https://github.com/DongWoo-Sin)
+[Github] https://github.com/DongWoo-Sin
 
