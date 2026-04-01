@@ -9,5 +9,3 @@
 
 - [Email] sindongwoo123@yu.ac.kr <br />
 - [Github] https://github.com/DongWoo-Sin <br />
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DongWoo-Sin&show_icons=true&theme=dark)
