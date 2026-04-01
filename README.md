@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20there!&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=40&desc=welcome&descSize=30&descAlign=65)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=250&section=header&text=Hello%20there!&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=40&desc=welcome&descSize=30&descAlign=65)
 
 **Introduction**
 
