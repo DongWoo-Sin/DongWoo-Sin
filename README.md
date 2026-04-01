@@ -8,6 +8,6 @@
 
 # **Link**
 
-[Email] sindongwoo123@yu.ac.kr <br />
-[Github] https://github.com/DongWoo-Sin <br />
+- [Email] sindongwoo123@yu.ac.kr <br />
+- [Github] https://github.com/DongWoo-Sin <br />
 
